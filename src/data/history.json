@@ -1,0 +1,35 @@
+[
+  {
+    "organisation": "Unified Mentor ",
+    "role": "Frontend Developer Intern",
+    "startDate": "August, 2024",
+    "endDate": "February, 2025",
+    "experiences": [
+      "Built dynamic user interfaces with React, ensuring fast load times, seamless navigation, and interactive features.",
+      "Optimized website performance by implementing code-splitting, lazy loading, reducing page load times and improving Core Web Vitals."
+    ],
+    "imageSrc": "history/unified.png"
+  },
+  {
+    "organisation": "CodeSoft ",
+    "role": "Frontend Developer Intern",
+    "startDate": "November, 2023 ",
+    "endDate": "April, 2024",
+    "experiences": [
+      "Built dynamic user interfaces with React, ensuring fast load times, seamless navigation, and interactive features.",
+      "Optimized website performance by implementing code-splitting, lazy loading, reducing page load times and improving Core Web Vitals."
+    ],
+    "imageSrc": "history/codeSoft.jpg"
+  },
+  {
+    "organisation": "Persistent System ",
+    "role": "Software Engineer Intern",
+    "startDate": "May, 2022",
+    "endDate": "November, 2022",
+    "experiences": [
+      "Built dynamic user interfaces with React, ensuring fast load times, seamless navigation, and interactive features.",
+      "Optimized website performance by implementing code-splitting, lazy loading, reducing page load times and improving Core Web Vitals."
+    ],
+    "imageSrc": "history/persistent.png"
+  }
+]
