@@ -1,8 +1,23 @@
 # React + Vite
+Live Link:- https://namrata-portfollio.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Getting Started
+Follow these steps to get the project up and running on your local machine.
 
-Currently, two official plugins are available:
+Prerequisites
+Before you begin, ensure you have the following dependencies installed:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Node.js: Make sure you have Node.js installed on your machine.
+Installation
+Clone the repository to your local machine using the following command:
+git clone https://github.com/namrata0226/portfolio.git
+Navigate to the project directory:
+
+cd roamify
+Install the project dependencies using npm:
+
+npm install
+Running the Application
+Once you've completed the installation you can start the development server:
+
+  npm run dev
