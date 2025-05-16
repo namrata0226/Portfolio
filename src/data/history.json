@@ -1,14 +1,14 @@
 [
   {
-    "organisation": "Unified Mentor ",
-    "role": "Frontend Developer Intern",
-    "startDate": "August, 2024",
-    "endDate": "February, 2025",
+    "organisation": "Outlier ",
+    "role": "Freelencer",
+    "startDate": "May, 2024",
+    "endDate": "Present",
     "experiences": [
-      "Built dynamic user interfaces with React, ensuring fast load times, seamless navigation, and interactive features.",
-      "Optimized website performance by implementing code-splitting, lazy loading, reducing page load times and improving Core Web Vitals."
+      "Reviewed and optimized AI-generated React and JavaScript code, ensuring compliance with project requirements, performance standards, and best practices.",
+      "Designed, refined, and evaluated prompts to improve the accuracy, efficiency, and relevance of AI-assisted code generation."
     ],
-    "imageSrc": "history/unified.png"
+    "imageSrc": "history/outlier.jpg"
   },
   {
     "organisation": "CodeSoft ",
@@ -16,20 +16,9 @@
     "startDate": "November, 2023 ",
     "endDate": "April, 2024",
     "experiences": [
-      "Built dynamic user interfaces with React, ensuring fast load times, seamless navigation, and interactive features.",
-      "Optimized website performance by implementing code-splitting, lazy loading, reducing page load times and improving Core Web Vitals."
+      "Developed responsive user interfaces using React.js, improving load times and user engagement by 25%.",
+      "Integrated APIs and optimized component performance through state management with React Hooks and Redux, enhancing application efficiency by 15%."
     ],
     "imageSrc": "history/codeSoft.jpg"
-  },
-  {
-    "organisation": "Persistent System ",
-    "role": "Software Engineer Intern",
-    "startDate": "May, 2022",
-    "endDate": "November, 2022",
-    "experiences": [
-      "Built dynamic user interfaces with React, ensuring fast load times, seamless navigation, and interactive features.",
-      "Optimized website performance by implementing code-splitting, lazy loading, reducing page load times and improving Core Web Vitals."
-    ],
-    "imageSrc": "history/persistent.png"
   }
 ]

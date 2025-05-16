@@ -1,11 +1,56 @@
 [
   {
-    "title": "Ecommerce Website Clone",
-    "imageSrc": "projects/image1.png",
+    "title": "SocialStream",
+    "imageSrc": "projects/SocialStream.png",
+    "description": "Created a full-stack social media and video-sharing platform using the MERN stack, integrating features of Twitter and YouTube.",
+    "skills": [
+      "ReactJs",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "Redux",
+      "JavaScript"
+    ],
+    "demo": "https:///",
+    "source": "https://github.com/namrata0226/social-stream"
+  },
+  {
+    "title": "Travel app",
+    "imageSrc": "projects/travelapp.png",
+    "description": "Developed a fully functional travel webapp using ReactJS, Redux, and Firebase to simulate a real-world travel website.",
+    "skills": [
+      "ReactJs",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "Redux",
+      "JavaScript"
+    ],
+    "demo": "https://roamiify.netlify.app/",
+    "source": "https://github.com/namrata0226/roamify"
+  },
+  {
+    "title": "Ecommerce Website",
+    "imageSrc": "projects/DreamHome.png",
     "description": "Developed a fully functional e-commerce website clone using ReactJS, Redux, and Firebase to simulate a real-world online store.",
     "skills": ["ReactJs", "Redux", "Firebase", "HTML", "CSS", "JavaScript"],
     "demo": "https://dream-home-a36e2.web.app/",
     "source": "https://github.com/namrata0226/Dream-home"
+  },
+  {
+    "title": "User Management System",
+    "imageSrc": "projects/UserManagementApp.png",
+    "description": "Built a User Management System using the MERN stack with JWT authentication, Redux, Axios, lazy loading, and Tailwind CSS,",
+    "skills": [
+      "ReactJs",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "Redux",
+      "JavaScript"
+    ],
+    "demo": "https://user-management-app-9s6b.vercel.app/",
+    "source": "https://github.com/namrata0226/UserManagementApp"
   },
   {
     "title": "Weather Forcasting App",
@@ -14,13 +59,5 @@
     "skills": ["ReactJS", "HTML", "CSS", "JavaScript", "OpenWeatherMapAPI"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com/sakshi-kurariya/Dynamic-Weather-App"
-  },
-  {
-    "title": "Travel app",
-    "imageSrc": "projects/travelapp.png",
-    "description": "Developed a fully functional travel webapp using ReactJS, Redux, and Firebase to simulate a real-world travel website.",
-    "skills": ["ReactJs", "Redux", "Firebase", "HTML", "CSS", "JavaScript"],
-    "demo": "https://roamiify.netlify.app/",
-    "source": "https://github.com/namrata0226/roamify"
   }
 ]

@@ -32,7 +32,7 @@ export const Hero = () => {
             <FaGithub />
           </a>
           <a
-            href="  https://drive.google.com/file/d/1kVu92033RKPc7geke2vGRCl9BogjVgnG/view?usp=drive_link"
+            href="  https://drive.google.com/file/d/1eTXRznx8dcbfK3X8XuelR-3t5jaqfoER/view?usp=sharing"
             target="_blank"
           >
             <FaCloudDownloadAlt />

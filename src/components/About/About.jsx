@@ -1,5 +1,3 @@
-import React from "react";
-
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -19,21 +17,21 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
+                I&#39;m a frontend developer with experience in building responsive
                 and optimized sites.
                 <br />
                 <br />
-Built dynamic user interfaces with React, ensuring fast load times, seamless navigation, and interactive features.
-<br />
-<br />
-Optimized website performance by implementing code-splitting, lazy loading, and image compression, reducing page load times and improving Core Web Vitals.
-<br />
-
+                Built dynamic user interfaces with React, ensuring fast load
+                times, seamless navigation, and interactive features.
+                <br />
+                <br />
+                Optimized website performance by implementing code-splitting,
+                lazy loading, and image compression, reducing page load times
+                and improving Core Web Vitals.
+                <br />
               </p>
             </div>
           </li>
-          
-         
         </ul>
       </div>
     </section>
